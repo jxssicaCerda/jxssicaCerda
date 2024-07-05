@@ -4,7 +4,7 @@
 <h1 align = "center"> 👋 Hi, I’m Jessica Cerda </h1>
 <h4 align = "center"> Actively Searching for Employement </h4>
 
-<p align = "left> 
+
 
 - 🏫 Education: B.A in Applied Mathematic and Minor in Statistics @ CSUS
 
@@ -14,5 +14,5 @@
 
 - Best Way to Reach Me: cerdaj4668@gmail.com
 
-</p>
+
 
