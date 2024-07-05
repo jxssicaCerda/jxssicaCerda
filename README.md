@@ -20,5 +20,6 @@
 <h4 align = "left"> Languages </h4>
    
 <p align = "left">
-   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/242px-R_logo.svg.png" />)
+   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/242px-R_logo.svg.png" />
 
+</p>
